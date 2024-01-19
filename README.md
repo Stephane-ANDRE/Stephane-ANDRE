@@ -1,4 +1,5 @@
 <h1 align="center"> HI there - Bonjour la compagnie - Komen i lé la? 👋 </h1>
+
   <p align="center"> Je m'appelle Stéphane, je suis réunionnais et j'habite dans l'Hérault! </p>
     <h2 align="center" strong>Développeur Web JavaScript</strong> </h2>  
       <h3>⚙️ Technos </h3> 
