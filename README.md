@@ -10,6 +10,20 @@
           <li>SQL | PosgreSQL</li>
           <li>Sequelize</li>
         </ul>
+         <h3>⚙️ Technos en apprentissage </h3> 
+            <ul>
+              <li>HTML | CSS | TailwindCSS</li>
+              <li>Javascript | EJS </li>
+              <li>Node.js | Express</li>
+              <li>SQL | PosgreSQL</li>
+              <li>Sequelize</li>
+              <li>React</li>
+              <li>Prisma</li>
+              <li>MongoDB</li>
+              <li>SupaBase</li>
+              <li>Clerk| Kinde </li>
+              <li>Next.Js| Next.auth </li>
+            </ul>       
     <h3>😃 About me..</h3> 
       <ul>
         <li> 🔭 Recherche un poste de développeur fullstack dans l'Hérault (Montpellier et alentours, Béziers et alentours)</li>
