@@ -12,8 +12,8 @@
         </ul>
     <h3>😃 About me..</h3> 
       <ul>
-        <li> 🔭 Recherche un poste de développeur fullstack ou back-end dans l'Hérault (Montpellier et alentours, Béziers et alentours)</li>
-        <li>🚧 Actuellement j'apprends des nouveaux framework back and front</li>
+        <li> 🔭 Recherche un poste de développeur fullstack dans l'Hérault (Montpellier et alentours, Béziers et alentours)</li>
+        <li>🚧 Actuellement j'apprends des nouveaux framework back and front en solo</li>
          <li>🚧 monter un portefolio</li>
          <li>⚡ Hobbies: gastronomie, vins, spiritueux</li>
          <li>⚡ Fun fact: Le lancer de Hache: Très fun et plus technique qu'on le croit</li>
